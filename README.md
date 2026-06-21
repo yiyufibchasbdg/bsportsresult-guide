@@ -1,2 +1,14 @@
 # bsportsresult-guide
-HTML page archive and documentation
+
+资料页面发布仓库
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
